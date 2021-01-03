@@ -5,3 +5,6 @@ https://techformist.com/magic-vuedraggable/
 
 
 https://codesandbox.io/s/cool-browser-3dmoq?file=/src/components/Parent.vue:151-202
+
+
+https://medium.com/vuetify/drag-n-drop-in-vuetify-part-i-166f2c7a4a82
